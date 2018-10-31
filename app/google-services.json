@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534118405881",
+    "firebase_url": "https://analytics-practice-ac175.firebaseio.com",
+    "project_id": "analytics-practice-ac175",
+    "storage_bucket": "analytics-practice-ac175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534118405881:android:c8b0c88aa8436179",
+        "android_client_info": {
+          "package_name": "com.haji.suada.analyticstutsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534118405881-9uh26i4r7ich33f83jqpqnjcvhjtvghm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haji.suada.analyticstutsapplication",
+            "certificate_hash": "8660131fdb7094b5da0208dcb93a8390a526c7a3"
+          }
+        },
+        {
+          "client_id": "534118405881-pkpmgbckgh2fd8qt2pfrkre3t59jupds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeg9hvug5fYdFCyJfQ677TBz0Bt4KwD4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534118405881-pkpmgbckgh2fd8qt2pfrkre3t59jupds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
